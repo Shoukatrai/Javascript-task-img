@@ -1,0 +1,8 @@
+img{
+    border: 1px solid black;
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+    padding: 20px;
+    background-color: orange;
+}
